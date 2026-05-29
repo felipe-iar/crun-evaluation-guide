@@ -1,5 +1,5 @@
 /*
-  Copyright (c) 2014-2023, IAR Systems AB.
+  Copyright (c) 2014-2026, IAR Systems AB.
   See LICENSE for detailed license information.
 */
 

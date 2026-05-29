@@ -1,7 +1,9 @@
-**/Debug
-**/settings
-**/CheckPointersFromNonInstrumentedCode
-**/DoNotCheckPointersFromNonInstrumentedCode
+# Directories
+CheckPointersFromNonInstrumentedCode/
+DoNotCheckPointersFromNonInstrumentedCode/
+Debug/
+settings/
 
-**/*.dep
-**/*.log
+# Files
+*.dep
+*.log
