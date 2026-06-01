@@ -1092,7 +1092,7 @@
                 </option>
                 <option>
                     <name>GenRtcEnableBoundsChecking</name>
-                    <state>1</state>
+                    <state>0</state>
                 </option>
                 <option>
                     <name>GenRtcCheckPtrsNonInstrMem</name>
